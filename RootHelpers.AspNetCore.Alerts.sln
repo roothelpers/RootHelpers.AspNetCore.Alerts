@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RootHelpers.AspNetCore.Alerts", "RootHelpers.AspNetCore.Alerts\RootHelpers.AspNetCore.Alerts.csproj", "{49348A3F-8B34-4C6B-9BF9-FD458B95B9B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{9DBEBC97-C347-459F-BFDF-0314F336F52A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RootHelpers.AspNetCore.Demo", "WebApplication2\RootHelpers.AspNetCore.Demo.csproj", "{9DBEBC97-C347-459F-BFDF-0314F336F52A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
