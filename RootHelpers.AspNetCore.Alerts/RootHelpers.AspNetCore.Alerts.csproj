@@ -8,6 +8,9 @@
     <PackageProjectUrl>https://github.com/roothelpers/RootHelpers.AspNetCore.Alerts</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/roothelpers/RootHelpers.AspNetCore.Alerts</PackageLicenseUrl>
     <PackageTags>asp-net,htmlhelpers, asp-net-core</PackageTags>
+    <Company>RootHelpers</Company>
+    <Authors>AhmedOumezzine</Authors>
+    <PackageReleaseNotes>If you need to know how you are used to it, you can read our README file at Github Project or contact us by email ahmedoumezzine@outlook.fr</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
