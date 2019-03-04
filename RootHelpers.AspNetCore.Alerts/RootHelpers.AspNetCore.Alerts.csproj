@@ -2,10 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>The alert component is used to provide visual feedback to the user. This can be used to provide the user with either confirmation messages that a record has been saved, warning messages that an error occurred, or an information message based on a system event.</Description>
+    <PackageIconUrl>https://avatars2.githubusercontent.com/u/46853910</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/roothelpers/RootHelpers.AspNetCore.Alerts</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/roothelpers/RootHelpers.AspNetCore.Alerts</PackageLicenseUrl>
+    <PackageTags>asp-net,htmlhelpers, asp-net-core</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Razor" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor" Version="2.1.0" />
   </ItemGroup>
 
 </Project>
